@@ -1,5 +1,8 @@
 # E07a-Save-and-Load    
 
+Ellie Smith 2020
+I learned how to implement saving in Godot and create a new script that allows Godot to save and load my changes.
+
 This is an opportunity for you to practice the simplest form of saving state in Godot, saving to a config file.
 
 As always, Fork and Clone this repository.
