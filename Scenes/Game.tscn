@@ -53,7 +53,8 @@ margin_top = 192.625
 margin_right = 632.287
 margin_bottom = 291.625
 __meta__ = {
-"_edit_group_": true
+"_edit_group_": true,
+"_edit_use_anchors_": false
 }
 
 [node name="Label" type="Label" parent="Buttons/AddButton"]
@@ -71,7 +72,8 @@ margin_top = 370.0
 margin_right = 436.0
 margin_bottom = 483.0
 __meta__ = {
-"_edit_group_": true
+"_edit_group_": true,
+"_edit_use_anchors_": false
 }
 
 [node name="Label" type="Label" parent="Buttons/Save"]
